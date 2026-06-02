@@ -6,7 +6,6 @@ Welcome to the source code repository for my personal developer portfolio websit
 
 ##  Live Demo
 You can view the live, interactive deployment of this website here: 
-**[Link to your live portfolio deployment once hosted]**
 
 ---
 
