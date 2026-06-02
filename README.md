@@ -1,0 +1,1 @@
+It is a personal portfolio and resume website built using HTML AND CSS to showcase my skills, projects, and experience as a software engineering student. The website features a clean and modern design, with sections for an about me, education, skills, and projects. It is fully responsive and optimized for both desktop and mobile devices.
