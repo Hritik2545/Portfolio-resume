@@ -23,7 +23,7 @@ Here are the core technical projects highlighted in this portfolio:
 ### 1. AI-Powered Scientific Calculator
 * **Description:** An advanced web-based scientific calculator integrated with artificial intelligence features.
 * **Core Tech:** HTML, CSS, JavaScript, Gemini API
-* **Links:** [Live Demo](https://hritik2545.github.io/Scientific-calculator/) | [Source Code](https://github.com/hritik2545/Scientific-calculator)(https://hritik2545.github.io/Portfolio-resume/)
+* **Links:** [Live Demo](https://hritik2545.github.io/Scientific-calculator/) | [Source Code](https://github.com/hritik2545/Scientific-calculator)
 
 ---
 
